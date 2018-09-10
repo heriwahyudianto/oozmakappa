@@ -12,5 +12,7 @@ google web specialist developer
 Tujuan (output) : 
   1. User bisa memfilter fasilitas kesehatan (apotek, praktek dokter, puskesmas, rumah sakit) yang ada disekitarnya.
   2. Info yang didapat berupa: marker lokasi, nama, dan jam buka tutup
+  
 Input berupa longitude dan latitude browser.
+
 Batasan : sementara data apotek wilayah malang kota.  
