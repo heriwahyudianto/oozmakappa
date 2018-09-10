@@ -2,9 +2,9 @@
 google web specialist developer 
 ## Kelompok 1:
 1. Heri Wahyudianto
-2. 
+2. Hanavi
 3. Anang
-4. Celyn
+4. Calyn
 5. Habib
 6. Agus
 7. Zahra
